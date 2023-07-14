@@ -82,3 +82,8 @@ body,
     @apply bg-background text-foreground;
   }
 }
+
+/*hidden clerck label*/
+.cl-internal-b3fm6y {
+  display:none
+}
